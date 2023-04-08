@@ -1,0 +1,18 @@
+{
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "Show Custom Keymap",
+          "submenu": [
+            {
+              "label": "Toggle",
+              "command": "show-keymap:toggle"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
