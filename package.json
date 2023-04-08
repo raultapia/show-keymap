@@ -1,7 +1,7 @@
 {
   "name": "show-keymap",
   "main": "./lib/show-keymap",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Display the user's custom keymap on screen.",
   "keywords": [],
   "activationCommands": {
