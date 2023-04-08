@@ -1,10 +1,9 @@
 {
   "name": "show-keymap",
   "main": "./lib/show-keymap",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Display the user's custom keymap on screen.",
-  "keywords": [
-  ],
+  "keywords": [],
   "activationCommands": {
     "atom-workspace": "show-keymap:toggle"
   },
@@ -13,6 +12,5 @@
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
   },
-  "dependencies": {
-  }
+  "dependencies": {}
 }
